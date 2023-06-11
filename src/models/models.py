@@ -6,7 +6,7 @@ class University(Base):
     __tablename__ = 'universities'
 
     id = Column(Integer, primary_key=True)
-    name = Column(String)
+    name = Column(String, unique=True)
     city = Column(String)
     salary = Column(Integer)
     average_ege = Column(Float)

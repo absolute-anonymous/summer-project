@@ -13,9 +13,6 @@ build/
 *.egg
 *.log
 
-# Environment
-.env
-
 # Database
 .postgres/
 
