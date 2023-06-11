@@ -39,7 +39,7 @@
 
 ### 6. Streamlit
 
-Проект размещен в интернете. Выходные данные, такие как карта с гео-визуализацией, гистограммы и диаграммы, доступны по адресу [https://cubich.ru/sovbak](https://cubich.ru/sovbak). Вы можете получить список доступных файлов по адресу [https://cubich.ru/sovbak/files](https://cubich.ru/sovbak/files), а также получить конкретный файл, добавив его имя к адресу, например: [https://cubich.ru/sovbak/files/Файл](https://cubich.ru/sovbak/files/Файл). Документация API доступна по адресу [https://cubich.ru/sovbak/docs](https://cubich.ru/sovbak/docs).
+Проект размещен в интернете. Выходные данные, такие как карта с гео-визуализацией, гистограммы и диаграммы, доступны по адресу [https://cubich.ru/sovbak](https://cubich.ru/sovbak). Вы можете получить список доступных файлов по адресу [https://cubich.ru/sovbak/files](https://cubich.ru/sovbak/files), а также получить конкретный файл, добавив его имя к адресу, например: [https://cubich.ru/sovbak/files/map.html](https://cubich.ru/sovbak/files/map.html) - Геовизуализация ВУЗов на карте России.
 
 ### 7. SQL
 
